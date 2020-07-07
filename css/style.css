@@ -1,0 +1,20 @@
+/*
+selector[etiqueta, id, clase] {
+    propiedad: valor;
+}
+*/ 
+/*
+selectores tipo etiqueta van sin simbolo
+selectores tipo id van con almoadilla(#)
+selectores tipo clase van con punto(.)
+*/
+
+h2, h3{
+
+    color: blue;
+}
+
+p{
+
+    color: green;
+}
